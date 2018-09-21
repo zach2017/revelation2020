@@ -1,0 +1,11 @@
+body {
+  padding-top: 5rem;
+}
+.homepage-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+html, body {
+    width: 100%;
+    overflow-x: hidden;
+}
